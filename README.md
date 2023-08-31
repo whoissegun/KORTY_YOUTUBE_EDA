@@ -64,7 +64,13 @@ This report performs a comprehensive analysis of a popular Nigerian YouTuber, Ko
 
 ## Recommendations
 1. **Focus on Optimal Video Length**: Given the popularity of 5-15 minute videos across all uploads and playlists, focusing on this length could maximize viewer engagement.
-2. **User Engagement Strategy**: "FLOW, WITH KORTY" has the highest view-to-comment ratio but a higher view-to-like ratio. It might be worth investigating why this playlist has less 'like' engagement despite higher comment engagement.
+2. **User Engagement Strategy**: "FLOW, WITH KORTY" has a higher view-to-comment ratio (370) compared to the overall channel and the "LOVE OR LIES" playlist. This suggests that this specific playlist is generating more comments per view than other content on the channel.
+
+On the other hand, this playlist also has a higher view-to-like ratio (17) compared to "LOVE OR LIES" (13) but is slightly higher than the overall channel's average (14). Typically, a higher view-to-like ratio might indicate that more people are watching but fewer are liking, while a lower ratio would suggest more people are liking per view.
+
+In this context, "FLOW, WITH KORTY" seems to inspire more comments but is not necessarily translating that into "likes" at the same rate as other content. It might be useful to investigate why this particular playlist is driving more comments but not as many likes. Is it more controversial? Is it sparking discussion but not necessarily winning over the audience?
+
+Understanding this dynamic could help in tailoring the content strategy to enhance user engagement across both metrics.
   
 ## Conclusion
 The analysis reveals key insights into video duration and viewer engagement across Korty's channel and her main playlists. This data can be leveraged to optimize future video uploads and marketing strategies.
